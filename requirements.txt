@@ -1,0 +1,5 @@
+fastapi
+google-cloud-storage
+uvicorn[standard]
+pandas
+pyarrow
